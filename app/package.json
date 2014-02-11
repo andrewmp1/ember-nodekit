@@ -1,0 +1,9 @@
+{
+  "name": "Ember NodeKit",
+  "main":"index.html",
+  "window": {
+    "toolbar": false,
+    "width": 800,
+    "height": 600
+  }
+}
